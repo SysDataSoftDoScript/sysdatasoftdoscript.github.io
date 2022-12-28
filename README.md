@@ -1,2 +1,2 @@
 # sysdatasoftdoscript.github.io
-DoScript social network
+DoScript social network/Социальная сеть DoScript
