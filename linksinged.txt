@@ -1,0 +1,7 @@
+=-=-=-=-=-=-=SysDataSoft Signature File=-=-=-=-=-=-=-=-=-
+PRODUCT-NAME:DoScript
+PRODUCT-TYPE:Social Network
+REGISTER:true
+ACCOUNT:SysDataSoft
+SIGNATURE-DATA:DOSCRIPT_SOCNET--=-=-=_==-register-sysdatasoft
+SIGNATURE-CODE:RE9TQ1JJUFRfU09DTkVULS09LT0tPV89PS1yZWdpc3Rlci1zeXNkYXRhc29mdA==
